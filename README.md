@@ -1,5 +1,6 @@
 <h1 align="center">Hey👋Fellow Developer , I am Aryan Fredericks</h1>
 <h3 align="center">A passionate Software Developer and Data Scientist from Mumbai , India</h3>
+<h5 align="center">Currently studying MSc. Robotics and AI in Scotland, UK.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanfredericks&label=Profile%20views&color=0e75b6&style=flat" alt="aryanfredericks" /> </p>
 
